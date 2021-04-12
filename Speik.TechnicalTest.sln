@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speik.TechnicalTest", "Speik.TechnicalTest\Speik.TechnicalTest.csproj", "{075DFDBA-7B35-4C54-B94D-09A6ED2FC89C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speik.TechnicalTest.Tests", "Speik.TechnicalTest.Tests\Speik.TechnicalTest.Tests.csproj", "{EE44EE65-D1D4-448E-8E63-544967ECEBAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{075DFDBA-7B35-4C54-B94D-09A6ED2FC89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075DFDBA-7B35-4C54-B94D-09A6ED2FC89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075DFDBA-7B35-4C54-B94D-09A6ED2FC89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075DFDBA-7B35-4C54-B94D-09A6ED2FC89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE44EE65-D1D4-448E-8E63-544967ECEBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE44EE65-D1D4-448E-8E63-544967ECEBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE44EE65-D1D4-448E-8E63-544967ECEBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE44EE65-D1D4-448E-8E63-544967ECEBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
